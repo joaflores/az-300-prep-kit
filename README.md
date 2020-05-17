@@ -130,6 +130,11 @@ Scheduling exam was important to set a date in calendar and make sure I stay foc
 
 * Day 9: Practice exams and mock questions, final review. Please **don't** use so called braindumps. I used "Microsoft Azure AZ-300 Architecture Technologies Practice Exams" (bought cheap on Udemy during Cyber Week)
 
+Examen test Linux Academy
+
+Estudiar:
+https://www.examtopics.com/exams/microsoft/az-300/view/1/
+
 * Day 10: EXAM!
 
 ### #8: A few thoughts after passing the exam
