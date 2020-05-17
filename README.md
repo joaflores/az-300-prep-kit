@@ -133,18 +133,22 @@ Scheduling exam was important to set a date in calendar and make sure I stay foc
 ### AGENDA CUSTOM
 
 * Dia 1 Lunes: 
-          Create and deploy apps (5-10%)
-          Develop for the cloud and for Azure storage (15-20%)
+
+          * Create and deploy apps (5-10%)
+          * Develop for the cloud and for Azure storage (15-20%)
 * Dia 2 Martes:
-          Implement authentication and secure data (5-10%)
+
+          ** Implement authentication and secure data (5-10%)
 * Dias 3-5 Miercoles-Jueves-Viernes: 
-          Deploy and configure infrastructure (40-45%)
-          Examen test Linux Academy
+
+          * Deploy and configure infrastructure (40-45%)
+          * Examen test Linux Academy
 * Dias 6-7 Sabado-Domingo:
-          Implement workloads and security (25-35%)
+
+          * Implement workloads and security (25-35%)
 * Dia 8 Lunes:
-Estudiar:
-https://www.examtopics.com/exams/microsoft/az-300/view/1/
+
+          * Estudiar: https://www.examtopics.com/exams/microsoft/az-300/view/1/
 * Dia 9: EXAMEN!
 
 ### #8: A few thoughts after passing the exam
