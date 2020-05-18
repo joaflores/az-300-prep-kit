@@ -37,7 +37,7 @@ There is also [Exercises folder](/Exercises) with a few scripts (mostly Azure CL
 
 * [ ] [Implement workloads and security (25-30%)](/2-workloads-&-security/README.md)
 
-* [ x ] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
+* [x] [Create and deploy apps (5-10%)](/3-create-&-deploy-apps/README.md)
 
 * [ ] [Implement authentication and secure data (5-10%)](/4-authentication-&-security/README.md)
 
